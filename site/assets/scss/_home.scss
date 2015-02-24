@@ -1,24 +1,23 @@
 .apply-to-join {
   .applications-open {
-    @include span-columns(4);
-    @include shift(4);
+    text-align: center;
   }
 }
 
-
 .community-rules {
-  > header, > footer {
-    @include span-columns(10);
-    @include shift(1);
-  }
+  > main {
+    @include outer-container;
 
-  > main article {
-    @include span-columns(6);
-    @include omega(2n);
+    article {
+      @include span-columns(6);
+      @include omega(2n);
+    }
   }
 }
 
 .about {
+  @include outer-container;
+
   article {
     @include span-columns(6);
     @include omega(2n);
