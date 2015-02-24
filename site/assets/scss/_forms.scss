@@ -12,23 +12,26 @@ $base-border-radius: 3px;
 $base-border-color: $light-gray;
 $base-border: 1px solid $base-border-color;
 
-input[type="submit"], button, .button {
+input, button, .button {
   @include appearance(none);
+  border-radius: $base-border-radius;
+  border: $base-border;
+  font-family: $font-sans;
+  padding: 0.75em 1em;
+  vertical-align: middle;
+}
+
+input[type="submit"], button, .button {
   -webkit-font-smoothing: antialiased;
   background-color: $action-color;
-  border-radius: $base-border-radius;
   border: none;
   color: #fff;
   cursor: pointer;
   display: inline-block;
-  font-family: $font-sans;
   font-weight: 600;
-  padding: 0.75em 1em;
   text-decoration: none;
   user-select: none;
-  vertical-align: middle;
   white-space: nowrap;
-  width: 100%;
   text-align: center;
   &:hover,
   &:focus {
@@ -42,9 +45,13 @@ input[type="submit"], button, .button {
   }
 }
 
+input {
+  width: 100%;
+  margin-top: emRhythm(1, $ms-down1);
+  margin-bottom: emRhythm(2, $ms-down1);
+}
 
 .button, button, label, input {
-  width: 100%;
   @include setType(3, $base-em-font-size);
 }
 

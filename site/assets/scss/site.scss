@@ -1,14 +1,8 @@
 @import "bourbon/bourbon";
-@import "neat/neat";
+@import "neat";
 @import "typography";
 @import "forms";
 @import "home";
-
-
-p + p {
-  margin-top: 0;
-  text-indent: 0;
-}
 
 q {
   quotes: "“" "”" "‘" "’";
@@ -22,6 +16,8 @@ q {
 
 
 body {
+  margin-top: emRhythm(4, $ms-down1);
+
   > main > section {
     margin-bottom: emRhythm(3, $ms-down1);
     @include span-columns(12);
@@ -38,5 +34,21 @@ body {
       @include shift(4);
     }
 
+  }
+}
+
+#logo {
+  padding-bottom: emRhythm(3, $ms-down1);
+  border-bottom: $base-border;
+}
+
+#content {
+  > section {
+    border-bottom: $base-border;
+    margin-bottom: emRhythm(3, $ms-down1);
+
+    &.bottom {
+      border: none;
+    }
   }
 }

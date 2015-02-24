@@ -37,23 +37,22 @@ js: [home]
         </main>
         <footer>
           <p class="indicates-required"><span class="asterisk">*</span> indicates required field</p>
-          <br />
-        <button name="subscribe" id="mc-embedded-subscribe">Sign Up For Monthly Emails</button>
+          <button name="subscribe" id="mc-embedded-subscribe">Sign Up For Monthly Emails</button>
         </footer>
       </form>
   </article>
 </section>
 <section class="community-rules">
   <header>
-  <h2>Community Rules</h2>
-  <p>The best way to encourage learning and professional growth is to ensure
+    <h2>Community Rules</h2>
+    <p>The best way to encourage learning and professional growth is to ensure
   it's safe to make mistakes. To that end:</p>
   </header>
   <main>
   {% for rule in site.categories.rules %}
     <article>
       <header>
-        <h3>{{ rule.title }}</h3>
+        <h4>{{ rule.title }}</h4>
       </header>
       <main>
         {{ rule.excerpt }}
@@ -85,7 +84,7 @@ js: [home]
   {% for faq in site.categories.faqs %}
     <article>
       <header>
-        <h3>{{ faq.title }}</h3>
+        <h4>{{ faq.title }}</h4>
       </header>
       <main>
         {{ faq.content }}
