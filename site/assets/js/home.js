@@ -15,13 +15,14 @@ $(document).ready(function() {
   , pageSubject: $('body').attr('id')
   });
 
-  Track.cta(".top applications-open .button", "Began application", {
+  Track.cta(".top .applications-open .button", "Began application", {
     position: "top-left"
   , color: "Blue"
   , category: "Applying"
   , pageSubject: $('body').attr('id')
   });
-  Track.cta(".bottom applications-open .button", "Began application", {
+
+  Track.cta(".bottom .applications-open .button", "Began application", {
     position: "bottom-center"
   , color: "Blue"
   , category: "Applying"
