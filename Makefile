@@ -3,12 +3,14 @@ build: clean build-js build-sass build-site
 run:
 	bin/foreman start
 
-bump:
+change-version:
 	echo "Current Version: " && cat VERSION
 	echo "Version number? "; read vn; echo $$vn > VERSION
+
+bump: change-version
 	git add VERSION && git commit -m "Starting work on $$(cat VERSION)"
 
-release: clean bump build-production commit-site deploy
+release: clean change-version build-production tag-release commit-site deploy
 
 clean: clean-site clean-css clean-js
 
@@ -39,8 +41,8 @@ clean-js:
 	rm -f site/assets/js/site.js.map
 	rm -f site/assets/js/site.js
 
-
 commit-site:
-	git tag v$$(cat VERSION)
 	(cd _site && git checkout gh-pages && git add -A && git commit -m "Releasing $$(cat ../VERSION)")
 
+tag-release:
+	git tag v$$(cat VERSION)
