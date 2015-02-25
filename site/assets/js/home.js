@@ -29,6 +29,13 @@ $(document).ready(function() {
   , pageSubject: $('body').attr('id')
   });
 
+  Track.cta(".bottom .exploring", "Referenced membership benefits", {
+    position: "bottom"
+  , color: "Blue"
+  , category: "Exploring"
+  , pageSubject: $('body').attr('id')
+  });
+
   Track.cta(".top .applications-closed a", "Requested invite", {
     color: "Blue"
   , category: "Applying"
