@@ -3,20 +3,16 @@
   <title>{{ page.title }}</title>
   <meta charset="utf-8" />
   <meta name="viewport" content="initial-scale=1" />
-  <link rel="stylesheet" type="text/css" href="/assets/css/site.css" />
+  {% stylesheet site %}
   <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.3.min.js"></script>
-  <script type="text/javascript" src="/assets/js/site.js"></script>
+  {% javascript site %}
 
   {% if page.canonical %}
     <link rel="canonical" href="{{ page.canonical }}" />
   {% endif %}
 
   {% for js in page.js %}
-    <script type="text/javascript" src="/assets/js/{{ js }}.js"></script>
-  {% endfor %}
-
-  {% for css in page.css %}
-    <link rel="stylesheet" href="/assets/css/{{ css }}.css"></script>
+    {{ js | javascript }}
   {% endfor %}
 
   <script type="text/javascript">
