@@ -7,3 +7,7 @@ defaults:
       layout: "default"
       segment_token: "FAFG7bcxwMR1l6ljIj1oPLBx9dkSFWlc"
 
+assets:
+  sources:
+    - assets/js
+    - assets/scss
