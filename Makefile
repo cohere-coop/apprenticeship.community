@@ -32,5 +32,4 @@ commit-site:
 
 tag-release:
 	git tag -f v$$(cat VERSION)
-	git push origin :v$$(cat VERSION)
 	git push --tags
