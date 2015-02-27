@@ -31,7 +31,7 @@ build-site:
 
 
 commit-site:
-	(cd _site && git checkout gh-pages && git add -A && git commit -m "Releasing $$(cat ../VERSION)")
+	(cd _site && git add -A && git commit -m "Releasing $$(cat ../VERSION)")
 
 tag-release:
 	git tag v$$(cat VERSION)
