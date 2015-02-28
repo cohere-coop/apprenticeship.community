@@ -7,7 +7,8 @@ change-version:
 	echo "Current Version: " && cat VERSION
 	echo "Version number? "; read vn; echo $$vn > VERSION
 
-bump: change-version
+bump:
+	make change-version
 	git add VERSION && git commit -m "Starting work on $$(cat VERSION)"
 
 release: clean change-version build-production tag-release commit-site deploy bump
