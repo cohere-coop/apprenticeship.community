@@ -32,5 +32,6 @@ commit-site:
 	(cd _site && git add -A && git commit -m "Releasing $$(cat ../VERSION)")
 
 tag-release:
+	(git add VERSION && git commit -m "Releasing $$(cat ../VERSION)")
 	git tag -f v$$(cat VERSION)
 	git push --tags
