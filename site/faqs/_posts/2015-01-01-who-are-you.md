@@ -8,6 +8,6 @@ page](https://github.com/zincmade/apprenticeship.community/#our-mission)
 and purvey our mission, contributing guidelines, and more.
 
 The current "staff" is our executive director, <a
-href="http://zeespencer.com">Zee Spencer</a> and our VP of
-Publications <a href="http://twitter.com/kmanion">Kiera
+href="http://zeespencer.com">Zee Spencer</a> and our vice president of
+publications <a href="http://twitter.com/kmanion">Kiera
 Manion-Fischer</a>.
