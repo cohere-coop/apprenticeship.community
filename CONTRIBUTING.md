@@ -1,6 +1,6 @@
 First off, *THANK YOU* for being interested in helping with the apprenticeship
-community! We're flattered you consider spending your time helping build a
-community of practice around business cultures of professional growth a
+community! We're flattered you consider helping build a
+community around business cultures of professional growth a
 worthwhile use of your time!
 
 Here are some common questions:
@@ -21,7 +21,7 @@ Whatever you think we need to hear! If you need inspiration:
 
 * Notifications of problematic published content. (Our [code of
   conduct](http://apprenticeship.community/code-of-conduct) covers how we handle
-  to problematic behavior in our community.)
+  problematic behavior in our community.)
 * Things you'd like to read.
 * Services you believe would fit well with our mission.
 * Typos or grammar mistakes.
@@ -30,7 +30,7 @@ Whatever you think we need to hear! If you need inspiration:
 ## How Do I Make Suggestions?
 We prefer you [create an
 issue](https://help.github.com/articles/creating-an-issue/) in our [issue
-tracker](issues), but if you're uncomfortable with that send an email with your
+tracker](issues), but if you're uncomfortable with that, send an email with your
 suggestion to [yo+apprenticeship-community@zincma.de](mailto:
 yo+apprenticeship-community@zincma.de).
 
