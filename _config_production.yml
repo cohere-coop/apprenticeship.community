@@ -1,0 +1,9 @@
+defaults:
+  - scope:
+      path: ""
+    values:
+      segment_token: "gdFVw1Gl6JMlAWQbN3vE1sPPvcI1FAPn"
+
+assets:
+  js_compressor:  uglifier
+  css_compressor: sass
