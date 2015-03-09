@@ -1,6 +1,6 @@
 $(document).ready(function() {
   Track.cta(".newsletter-form", "Signed up for Newsletter", {
-  , color: "Blue"
+    color: "Blue"
   , category: "Engagement"
   , pageSubject: $('body').attr('id')
   });
