@@ -4,6 +4,13 @@
 @import "forms";
 @import "home";
 
+nav {
+  a {
+    padding: emRhythm(3, $ms-down1);
+    padding-left: 0;
+  }
+
+}
 q {
   quotes: "“" "”" "‘" "’";
   &:before {

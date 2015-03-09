@@ -1,6 +1,11 @@
 source: "site"
 destination: "_site"
+permalink: "/:categories/:year/:month/:title.html"
 defaults:
+  - scope:
+      path: "/events"
+    values:
+      layout: "event"
   - scope:
       path: ""
     values:
@@ -11,3 +16,10 @@ assets:
   sources:
     - assets/js
     - assets/scss
+
+collections:
+  contributors:
+    slug: sarah-mei
+    name: Sarah Mei
+    twitter: sarahmei
+    website: http://sarahmei.com

@@ -31,13 +31,15 @@
 
   function applyTracking(selector, action, event_id, options) {
     forElements(selector, function(element) {
+      console.log(element);
       var decoratedOptions = optionsFor(element, action, options);
+      console.log(decoratedOptions);
       analyticsFnFor(element).call(analytics, element, event_id, decoratedOptions);
     });
   }
 
   function forElements(selector, callback) {
-    var elements = document.querySelectorAll(selector);
+    var elements = selector.each ? selector : document.querySelectorAll(selector);
     Array.prototype.forEach.call(elements, callback);
   }
 

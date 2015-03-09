@@ -3,16 +3,24 @@
 
 
 $(document).ready(function() {
+
+  var inviteCode = AC.queryParam("invite-code");
+  var applyToJoinView = new AC.ApplyToJoinView($(".apply-to-join"), {
+      inviteCode: inviteCode
+    , acceptingApplications: true
+  });
+
+  AC.invite(inviteCode, applyToJoinView.$buttons);
+
   var bindTrack = function($el, binder) {
-    binder("#" + $el.attr('id'), $el.data("goal"), {
+    binder($el, $el.data("goal"), {
       position: $el.data("position")
     , engagementLevel: $el.data("engagement-level")
     , type: $el.data('type')
-    , text: $el.text().replace(/(\r\n|\n|\r)/gm,"")
+    , text: $.trim($el.text().replace(/(\r\n|\n|\r)/gm,""))
     , order: $el.data("order")
     , color: $el.data("color")
     , category: $el.data("category")
-    , pageSubject: $('body').attr('id')
     });
   }
 

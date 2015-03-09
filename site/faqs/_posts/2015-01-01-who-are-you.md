@@ -1,13 +1,8 @@
 ---
 title: Who Are You?
 ---
-We're people with a dream of a world where cultures of
-growth and learning at work are the norm, not the exception.
-To learn more, [head to our project
-page](https://github.com/zincmade/apprenticeship.community/#our-mission)
-and purvey our mission, contributing guidelines, and more.
-
-The current "staff" is our executive director, <a
-href="http://zeespencer.com">Zee Spencer</a> and our vice president of
-publications <a href="http://twitter.com/kmanion">Kiera
-Manion-Fischer</a>.
+We're people with a dream of a world where cultures of growth and learning at
+work are the norm, not the exception. Our members range from technology
+executives to artists. We value skills of all kinds and all levels. The current
+"staff" is <a href="http://zeespencer.com">Zee Spencer</a> and <a
+href="http://twitter.com/kmanion">Kiera Manion-Fischer</a>.
