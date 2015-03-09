@@ -1,23 +1,7 @@
 ---
   layout: default
 ---
-
 <section class="event">
 <h4>{{ page.start-time | pretty_date }} {{ page.start-time | pretty_time }} to {{ page.end-time | pretty_time }}</h4>
 {{ content }}
 </section>
-
-<section class="join-cta">
-  <p>We're a peer learning group of cross-skilled practitioners who foster work
-  cultures of learning and growth.</p>
-
-  {% include application-form.html %}
-</section>
-<section class="newsletter-cta">
-
-</section>
-
-<section class="patron-cta">
-  {% include patron-cta.html %}
-</section>
-

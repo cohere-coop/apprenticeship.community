@@ -57,14 +57,33 @@
          data-position="nav"
          data-category="Suggestions"
          data-engagement-level="engaging"
-         data-goal="View suggestion board"
+         data-goal="Begin making suggestion"
          data-order="third"
          data-type="link"
-         href="https://waffle.io/zincmade/apprenticeship.community-wip">Make a suggestion</a>
+         href="https://waffle.io/zincmade/apprenticeship.community-wip">Make a Suggestion</a>
+
+      <a class="engaging"
+         data-position="nav"
+         data-category="Contributors"
+         data-engagement-level="engaging"
+         data-goal="View contributor page"
+         data-order="fourth"
+         data-type="link"
+         href="/contributing.html">Become a Contributor</a>
     </nav>
   </header>
   <main id="content">
     {{ content }}
+
+    <hr />
+    <section>
+      <p>We're a peer learning group of cross-skilled practitioners who foster work
+      cultures of learning and growth.</p>
+
+      {% include application-form.html %}
+
+      {% include patron-cta.html %}
+    </section>
   </main>
   <footer>
     <p>&copy; 2015 The Apprenticeship Community.</p>
