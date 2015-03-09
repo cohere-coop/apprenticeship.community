@@ -1,5 +1,6 @@
 ---
 title: Become an Event Guest or Author
+layout: default
 ---
 We’re always interested in adding diverse voices to our community’s contributor
 pool.
