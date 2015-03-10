@@ -5,11 +5,14 @@
 @import "home";
 
 nav {
+  padding-top: emRhythm(3, $ms-up1);
   a {
     padding: emRhythm(3, $ms-down1);
     padding-left: 0;
+    &.button {
+      margin-right: emRhythm(3, $ms-up1);
+    }
   }
-
 }
 q {
   quotes: "“" "”" "‘" "’";
