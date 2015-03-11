@@ -43,5 +43,5 @@ Half of Apprenticeship.Community revenue (from <a class="buying"
   data-goal="Begin becoming a patron" data-category="Patronizing"
   data-engagement-level="buying">patrons</a> and sponsors) for the month gets
 distributed equally among that month's contributors and event guests. We send
-checks the second friday of the month after your event occurs of your article is
+checks the second Friday of the month after your event occurs or your article is
 published.
