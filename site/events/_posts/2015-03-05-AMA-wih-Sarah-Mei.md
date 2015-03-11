@@ -1,9 +1,9 @@
- ---
+---
 title: Ask-Me-Anything with Sarah Mei
 start-time: 2015-03-10T16:00:00-08:00
 end-time: 2015-03-10T17:00:00-08:00
 layout: event
- ---
+---
 
 Sarah Mei took more than an hour of her time to answer questions from the Apprenticeship Community in our Slack channel. 
 
