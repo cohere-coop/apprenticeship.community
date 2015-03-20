@@ -6,4 +6,4 @@ layout: event
 ---
 We'll be hosting an in-Slack Ask-Me-Anything with Coraline Ada Ehmke at 6 p.m. PST/9 p.m. EST on Tuesday, March 24.
 {% include bio-coraline-ada-ehmke.md %}
-To participate and ask Coraline a question, [join the community](https://zee8.typeform.com/to/b9wyG6?invite-code=announce-coralines-ama).
+To participate and ask Coraline a question, [join the community](https://zee8.typeform.com/to/b9wyG6).
