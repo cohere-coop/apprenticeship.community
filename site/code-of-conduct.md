@@ -24,5 +24,4 @@ harassment-free experience for everyone. To that end:
 
 We recognize that [everyone makes
 mistakes](http://juliepagano.com/blog/2014/01/06/on-making-mistakes/). We are
-**forgiving, but not lenient**.  Repeated abuse of these rules will result in
-expulsion from the community.
+**forgiving, but not lenient**.  Repeated violations of these rules will result in any actions staff deem appropriate, including warning the offender and permanent expulsion from the community.
