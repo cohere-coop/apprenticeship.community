@@ -11,7 +11,7 @@ Coraline talked about diversity, open source software, public speaking, and ment
 
 The full AMA follows, edited for punctuation, style, and clarity.
 
-###You've started various diversity in tech projects: [opensourceforwomen.org](http://opensourceforwomen.org/), LGBTech and [cultureoffset.org](http://cultureoffset.org/). What are you most excited about right now?###
+###You've started various diversity in tech projects: [opensourceforwomen.org](http://opensourceforwomen.org/), LGBTech and [CultureOffset.org](http://cultureoffset.org/). What are you most excited about right now?###
 
 I'm really happy that [contributor-covenant.org](http://contributor-covenant.org/) is gaining so much traction. It's basically a code of conduct for FOSS (free and open source software) projects. It's been adopted so far by [AngularJS](https://angularjs.org), [lotus_rb](http://lotusrb.org), some Mozilla projects, [Canvas by Instructure](https://github.com/instructure/canvas-lms/wiki), and many more. This year the Ruby Bundler team added it as an option in their interactive gem creation wizard as well.
 
@@ -52,11 +52,11 @@ I struggled with this myself. Prior to deciding to transition I didn't show much
 
 I still mess up a lot. It's a process.
 
-###You’re doing ten talks this year (!) What’s your favorite piece of advice for beginning or intermediate speakers? To change the subject a bit.###
+###You’re doing ten talks this year (!) What’s your favorite piece of advice for beginning or intermediate speakers?###
 
 I would have to repeat the words that [Write/Speak/Code](http://www.writespeakcode.com/) focuses on so much: own your expertise.
 
-The first talk I gave as Coraline, I was a nervous wreck. I had been invited by [Liz Abinante](http://lizabinante.com) to speak to Girl Develop It Chicago on open source.
+The first talk I gave as Coraline, I was a nervous wreck. I had been invited by [Liz Abinante](http://lizabinante.com) to speak to [Girl Develop It Chicago](https://www.girldevelopit.com/chapters/chicago) on open source.
 
 My talk was "An Open Source Survival Guide for Women." I came to her in a panic a few days before, feeling an incredible onset of self-doubt.
 
@@ -109,7 +109,7 @@ Another thing that I think is important...
 It's really easy to fall into the role of an all-seeing eye, an omniscient being, and really let your ego get in the way. I don't think that as mentors we should position ourselves as infallible oracles. This is an easy trap to fall into. One way that I combat it is to answer a question with a question -- "What do you think will happen if you try it that way?" or, "Can you explain why you chose that implementation?" This honors and acknowledges the other person's thought processes and can lead them to their own "aha!" moments. And sometimes they are right and you are wrong!
 
 
-###[geekoncoffee](https://twitter.com/geekoncoffee) Any tips for maintaining empathy when [pairing](https://en.wikipedia.org/wiki/Pair_programming)?###
+###[geekoncoffee](https://twitter.com/geekoncoffee): Any tips for maintaining empathy when [pairing](https://en.wikipedia.org/wiki/Pair_programming)?###
 
 Try to remember what it's like to be a beginner. Try not to let yourself get frustrated. And this goes contrary to popular wisdom, but be the typist in the pair more often than not -- but only type what you're told. That takes discipline.
 
