@@ -4,11 +4,6 @@ start-time: 2015-03-31T17:00:00-08:00
 end-time: 2015-03-31T18:00:00-08:00
 layout: event
 ---
-Our next #apprenticeship Twitter chat will be on the topic of **empathy**, suggested by community member [@GeekOnCoffee](http://www.twitter.com/geekoncoffee).  
+We had a great Twitter chat about empathy. Thanks to community member [@GeekOnCoffee](http://www.twitter.com/geekoncoffee) for the topic suggestion. Here's the [Storify](https://storify.com/Apprenticeship/empathy) of the chat.
 
-*   What does empathy mean to you?
-*   Can empathy be taught?
-*   If so, how?
-
-To participate, follow [@pprenticeship](http://www.twitter.com/pprenticeship) on Twitter, and use the hashtag [#apprenticeship](https://twitter.com/search?q=%40pprenticeship%20%23apprenticeship&src=typd).  
-The chat will be 6 p.m. PST/9 p.m. EST, Tuesday, March 31.
+<div class="storify"><iframe src="//storify.com/Apprenticeship/empathy/embed?header=false&border=false" width="100%" height="750" frameborder="no" allowtransparency="true"></iframe><script src="//storify.com/Apprenticeship/empathy.js?header=false&border=false"></script><noscript>[<a href="//storify.com/Apprenticeship/empathy" target="_blank">View the story "Empathy" on Storify</a>]</noscript></div>
