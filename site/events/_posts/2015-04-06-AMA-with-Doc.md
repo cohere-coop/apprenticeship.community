@@ -8,4 +8,4 @@ We'll be hosting an Ask-Me-Anything with Michael Norton (Doc) at 6 p.m. PST/9 p.
 
 {% include bio-doc.md %}
 
-To participate and ask Doc a question, [join the Apprenticeship Community!](https://zee8.typeform.com/to/b9wyG6/?invite-code=doc-AMA)
+To participate and ask Doc a question, [join the Apprenticeship Community!](https://zee8.typeform.com/to/b9wyG6?invite-code=doc-AMA)
