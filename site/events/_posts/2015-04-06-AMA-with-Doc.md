@@ -51,7 +51,7 @@ Same answer. Great mentors are patient, care about the individual more than the 
 
 I do think apprenticeship is a good path for helping with this. Companies can actually afford to take a little "risk" -- The benefits are worth it. Having your existing staff teach keeps them more skilled. Bringing in junior folks and helping them learn is a good way to "mine" for untapped talent.
 
-One of my first hires (way long ago) was a machine press operator who had taken their first computer course. Since then, he's designed muti-factor authentication systems for major banks, is an advisor to Oracle, and works on security systems.
+One of my first hires (way long ago) was a machine press operator who had taken their first computer course. Since then, he's designed multi-factor authentication systems for major banks, is an advisor to Oracle, and works on security systems.
 
 He wasn't even sure he wanted to "do this computer thing" Most of us are capable of far more than we can imagine. And we're afraid. I know I am. Sometimes we need people who will believe in us when we're not ready to.
 
