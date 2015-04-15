@@ -34,4 +34,4 @@ commit-site:
 tag-release:
 	(git add VERSION && git commit -m "Releasing $$(cat VERSION)")
 	git tag -f v$$(cat VERSION)
-	git push --tags origin v$$(cat VERSION)
+	git push --tags origin v$$(cat VERSION):v$$(cat VERSION)
