@@ -1,5 +1,6 @@
 ---
 title: A Mentee's Perspective on Mentorship
+excerpt: "Mentorship is one of the most important and valuable relationships in one’s life. Many in the professional world would agree, but very few in my neighborhood ever experience it."
 layout: default
 ---
 ####By Elijah Claude####
