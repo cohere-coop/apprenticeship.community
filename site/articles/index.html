@@ -5,7 +5,6 @@ layout: default
 {% for article in site.categories.articles %}
   <article>
     <h3 id="{{ article.title | handleize }}"><a href="{{article.url}}">{{ article.title }}</a></h3>
-    <h4>{{ article.start-time | pretty_date }} {{ article.start-time | pretty_time }} to {{ article.end-time | pretty_time }}</h4>
     {{ article.excerpt }}
     <p>Posted on <a href="{{ article.url }}">{{ article.date | pretty_date }}</a></p>
   </article>
