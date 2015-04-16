@@ -1,7 +1,7 @@
---
+---
 title: A Mentee's Perspective on Mentorship
 layout: default
---
+---
 
 Mentorship is one of the most important and valuable relationships in one’s life. Many in the professional world would agree, but very few in my neighborhood ever experience it. This tragedy is just one of the many things [Year Up](http://www.yearup.org) wants to remedy. What is Year Up? Well, for one, it is not Europe (you’d be surprised how many people confuse this phonetically). [Year Up’s mission](http://www.yearup.org/about-us/) is to close the [opportunity divide](https://www.youtube.com/watch?v=sZiPqqYmxdo) “by providing urban young adults with the skills, experience, and support that will empower them to reach their potential through professional careers and higher education.” 
 
