@@ -7,7 +7,7 @@ layout: default
 
 Mentorship is one of the most important and valuable relationships in one’s life. Many in the professional world would agree, but very few in my neighborhood ever experience it. This tragedy is just one of the many things [Year Up](http://www.yearup.org) wants to remedy. What is Year Up? Well, for one, it is not Europe (you’d be surprised how many people confuse this phonetically). [Year Up’s mission](http://www.yearup.org/about-us/) is to close the [opportunity divide](https://www.youtube.com/watch?v=sZiPqqYmxdo) “by providing urban young adults with the skills, experience, and support that will empower them to reach their potential through professional careers and higher education.” 
 
-One very important part of this mission is creating a strong mentorship. Gerald Chertavian, Year Up founder and CEO, was [inspired to create this organization from his mentorship experience](https://www.youtube.com/watch?v=sZiPqqYmxdo) in the [Big Brothers Big Sisters](http://www.bbbs.org/site/c.9iILI3NGKhK6F/b.5962335/k.BE16/Home.htm) program. 
+One very important part of this mission is creating a strong mentorship. Gerald Chertavian, Year Up founder and CEO, was [inspired to create this organization from his mentorship experience](https://www.youtube.com/watch?v=ptDIX7aPNeM) in the [Big Brothers Big Sisters](http://www.bbbs.org/site/c.9iILI3NGKhK6F/b.5962335/k.BE16/Home.htm) program. 
 
 Unfortunately, my experience was not as life-changing as Mr. Chertavian and his mentee’s, but it was still pretty good, and I hope that my experience will help take new mentorships, outside or within Year Up, to the next level.
 
