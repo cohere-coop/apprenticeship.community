@@ -11,7 +11,7 @@ bump:
 	make change-version
 	git add VERSION && git commit -m "Starting work on $$(cat VERSION)"
 
-release: clean build-production change-version tag-release commit-site deploy bump
+release: clean build-production change-version commit-site deploy bump
 
 clean:
 	rm -rf _site/*
