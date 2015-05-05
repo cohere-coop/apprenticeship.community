@@ -37,9 +37,9 @@ build-site:
 
 
 commit-site:
-	(cd _site && git add -A && git commit -m "Releasing $$(cat ../VERSION)")
+	(cd _site && git add -A && git commit --allow-empty -m "Releasing $$(cat ../VERSION)")
 
 tag-release:
-	(git add VERSION && git commit -m "Releasing $$(cat VERSION)")
+	(git add VERSION && git commit --allow-empty -m "Releasing $$(cat VERSION)")
 	git tag -f v$$(cat VERSION)
 	git push --tags origin v$$(cat VERSION):v$$(cat VERSION)
