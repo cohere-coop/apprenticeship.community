@@ -11,7 +11,15 @@ bump:
 	make change-version
 	git add VERSION && git commit -m "Starting work on $$(cat VERSION)"
 
-release: clean build-production change-version tag-release commit-site deploy bump
+release: ensure-safe-to-release clean build-production change-version commit-site deploy bump
+
+ensure-safe-to-release: ensure-on-primary ensure-no-outstanding-changes
+
+ensure-on-primary:
+	git branch | grep '* primary'
+
+ensure-no-outstanding-changes:
+	git status | grep 'working directory clean'
 
 clean:
 	rm -rf _site/*
