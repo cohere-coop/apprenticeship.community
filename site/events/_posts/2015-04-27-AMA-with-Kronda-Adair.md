@@ -30,7 +30,7 @@ The two biggest things were about the interaction model of selling: Relationship
 
 The more time you spend with someone, the more likely they are to hire you. The second thing was to stop emailing proposals and present them instead.
 
-I gave a presentation on this at [ACT-W](http://act-wpdx.splashthat.com) conference in Portland a few weeks ago. Slides: [karvel.me/actslides](www.karvel.me/actslides)
+I gave a presentation on this at [ACT-W](http://act-wpdx.splashthat.com) conference in Portland a few weeks ago. Slides: [karvel.me/actslides](https://presentate.com/~KyeMVy/talks/creating-a-system-for-selling)
 
 ###[Zee](http://www.zeespencer.com): How did you go about repositioning as a consultant?###
 
@@ -42,7 +42,7 @@ I’m highly opinionated and if you let your ideas be known, it will draw the ri
 
 ###[Zee](http://www.zeespencer.com): What's something you wish people would ask you about?###
 
-How women in tech can escape these shitty tech companies and work for themselves. (This is the subject of the next tinyletter) [kronda.com/tinyletter](kronda.com/tinyletter)
+How women in tech can escape these shitty tech companies and work for themselves. (This is the subject of the next [tinyletter](https://tinyletter.com/kronda))
 
 I literally watch the 50% of women leave tech statistic play out in IRC daily. And yet, I’ve never been more excited about my business.
 
@@ -52,7 +52,7 @@ I’ve lived in Portland my whole life, so I’m probably not the one to advise 
 
 Hint: If you don’t want to work with shitty tech companies, maybe learn something that will help clients directly, or small businesses, or make a product.
 
-That’s one of the reasons I like [WordPress](www.wordpress.com). I think a lot of developers don’t find it interesting on a coding challenge level (though it absolutely can be). Or [PHP](http://php.net/) isn’t cool anymore or whatever. I find freedom and independence more exciting than code. 
+That’s one of the reasons I like [WordPress](https://wordpress.com). I think a lot of developers don’t find it interesting on a coding challenge level (though it absolutely can be). Or [PHP](http://php.net/) isn’t cool anymore or whatever. I find freedom and independence more exciting than code. 
 
 ###[Zee](http://www.zeespencer.com): How do you manage invoicing and all the headache re running a business?###
 
@@ -60,7 +60,7 @@ Constantly. I’m a big fan of tools to streamline things. I use [Harvest](https
 
 But it looks nice and it does some things Freshbooks doesn’t. Mainly it will connect to your accounts and you can create rules to categorize incoming transactions.
 
-I have a [Trello](www.trello.com) board called “The Toolshed” that I use to track things I might want to try.
+I have a [Trello](https://trello.com) board called “The Toolshed” that I use to track things I might want to try.
 
 I’m starting to outsource some of the things. Just this week, I got a book keeper because I once again found myself doing a year’s worth of accounting in the two days before my meeting with my tax accountant. Never. Again.
 
@@ -92,7 +92,7 @@ Also, people bring their own anchors into tech. I just talked to my mentor about
 
 So if you’re used to making $10/hour, 20 or 50 can seem amazing, but it still might be relatively low for what you’re doing.
 
-[gtsai](http://www.linkedin.com/in/gmtsai): So I'm by no means a rails/ruby as I'm still a bit below intermediate, when you approached your first couple of projects how did you overcome your, "Oh shit, I want to take it, but I'm not sure I'm qualified" thinking?
+###[gtsai](http://www.linkedin.com/in/gmtsai): So I'm by no means a rails/ruby as I'm still a bit below intermediate, when you approached your first couple of projects how did you overcome your, "Oh shit, I want to take it, but I'm not sure I'm qualified" thinking?###
 
 I was in school when I started making projects for people so I did them for free.
 
@@ -140,9 +140,9 @@ I’m also a huge fan of scheduling tools. I use youcanbook.me for scheduling so
 
 ###[Zee](http://www.zeespencer.com): Speaking of tools, what are your go-to time/effort saving tools for running your business?###
 
-Some of them I’ve mentioned: [bidsketch.com](bidsketch.com) for proposals saves a lot of time. [youcanbook.me](youcanbook.me) for scheduling. [getdrip.com](getdrip.com) for email automation. [Videousermanuals.com](Videousermanuals.com) for training clients to use WordPress. That was one of the first ones I found. It’s lovely. Also [zapier.com](zapier.com) is great for connecting your apps together.
+Some of them I’ve mentioned: [bidsketch.com](https://www.bidsketch.com) for proposals saves a lot of time. [youcanbook.me](https://gb.youcanbook.me) for scheduling. [getdrip.com](https://www.getdrip.com) for email automation. [Videousermanuals.com](http://www.videousermanuals.com) for training clients to use WordPress. That was one of the first ones I found. It’s lovely. Also [zapier.com](https://zapier.com) is great for connecting your apps together.
 
-I created a CRM with Trello that imports people who fill out my contact form on my website. Stole that from this guy: [http://casjam.com/system-for-selling/](ttp://casjam.com/system-for-selling/)
+I created a CRM with Trello that imports people who fill out my contact form on my website. Stole that from this guy: [http://casjam.com/system-for-selling/](http://casjam.com/system-for-selling/)
 
 ###[gtsai](http://www.linkedin.com/in/gmtsai): Can you tell me how you got your first contracting gig and how you were able to spread the word after that?###
 
