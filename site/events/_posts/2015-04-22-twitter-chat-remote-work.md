@@ -4,11 +4,6 @@ start-time: 2015-05-05T18:00:00-07:00
 end-time: 2015-05-05T19:00:00-07:00
 layout: event
 ---
-Our next Twitter chat will be about remote work.
+Community members shared the pros and cons of working remotely in this Twitter chat. Here's the [Storify of the conversation](https://storify.com/Apprenticeship/remote-work).
 
-* Do you feel more or less productive when working remotely?  
-* How does one manage remote employees effectively?  
-* What are the pros and cons of remote work?  
-
-The chat will be 6 p.m. PST/9 p.m. EST, Tuesday, May 5.  
-To participate, follow us on Twitter at [@pprenticeship](https://twitter.com/pprenticeship) and use the hashtag [#apprenticeship](https://twitter.com/search?f=realtime&q=%40pprenticeship%20OR%20%23apprenticeship&src=typd).
+<div class="storify"><iframe src="//storify.com/Apprenticeship/remote-work/embed?header=false&border=false" width="100%" height="750" frameborder="no" allowtransparency="true"></iframe><script src="//storify.com/Apprenticeship/remote-work.js?header=false&border=false"></script><noscript>[<a href="//storify.com/Apprenticeship/remote-work" target="_blank">View the story "Remote work" on Storify</a>]</noscript></div>
