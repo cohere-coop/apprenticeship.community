@@ -25,7 +25,7 @@ clean:
 	rm -rf _site/*
 
 deploy:
-	(cd _site && git push origin gh-pages)
+	(cd _site && git push --force origin gh-pages)
 
 build-production: clean build-production-site
 
