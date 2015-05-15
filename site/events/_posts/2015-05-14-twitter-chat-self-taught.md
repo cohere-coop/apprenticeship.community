@@ -1,7 +1,7 @@
 ---
 title: Apprenticeship Twitter Chat - Getting from self taught to employed
-start-time: 2015-03-03T18:00:00-08:00
-end-time: 2015-03-03T19:00:00-08:00
+start-time: 2015-05-19T18:00:00-08:00
+end-time: 2015-05-19T19:00:00-08:00
 layout: event
 ---
 Our next #apprenticeship Twitter chat will discuss getting from self-taught to employed.
