@@ -3,6 +3,11 @@
 ---
 <section class="event">
 <h4>{{ page.start-time | pretty_date }} {{ page.start-time | pretty_time }} to {{ page.end-time | pretty_time }}</h4>
-<h5><a href="{{ page.id }}.ics">Add To Your Calendar</a></h4>
+<h5><a href="{{ page.id }}.ics"
+       class="button engaging"
+       data-category="Events"
+       data-engagement-level="engaging"
+       data-goal="Add event to calendar"
+       data-type="button">Add To Your Calendar</a></h4>
 {{ content }}
 </section>
