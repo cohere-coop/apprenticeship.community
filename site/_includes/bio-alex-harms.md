@@ -1,0 +1,2 @@
+
+[Alex Harms](https://twitter.com/onealexharms) helps geeks (re)learn empathy, helps teams communicate, coaches mindfulness techniques, and occasionally writes a little code. They're based in Columbus, Ohio, with bits of their heart residing in the Pacific Northwest, Detroit, Denver, and Europe, among other places.
