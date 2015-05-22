@@ -1,5 +1,5 @@
 ---
-title: Twitter chat - The value of a college degree
+title: Apprenticeship Twitter chat - The value of a college degree
 start-time: 2015-06-02T17:00:00-08:00
 end-time: 2015-06-02T18:00:00-08:00
 layout: event
