@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20150525T194032Z
+UID:5a9e2e15-fcf8-4f60-b3e9-9f5690fb0868
+DTSTART:20150519T190000
+DTEND:20150519T200000
+DESCRIPTION:https://apprenticeship.community//events/2015/05/twitter-chat-s
+ elf-taught.html
+SUMMARY:Apprenticeship Twitter Chat - Getting from self taught to employed
+END:VEVENT
+END:VCALENDAR
+

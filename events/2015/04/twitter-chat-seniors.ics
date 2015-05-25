@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20150525T194032Z
+UID:95a4a17f-527c-4527-8317-9ee5f5fc13cd
+DTSTART:20150414T180000
+DTEND:20150414T190000
+DESCRIPTION:https://apprenticeship.community//events/2015/04/twitter-chat-s
+ eniors.html
+SUMMARY:Apprenticeship Twitter Chat - What Makes Someone a Senior Contribut
+ or?
+END:VEVENT
+END:VCALENDAR
+

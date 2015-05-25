@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20150525T194032Z
+UID:fc30245e-68d3-4895-b95d-5f1c635f0d12
+DTSTART:20150303T180000
+DTEND:20150303T190000
+DESCRIPTION:https://apprenticeship.community//events/2015/02/twitter-chat-b
+ arriers-to-professional-growth.html
+SUMMARY:Apprenticeship Twitter Chat - Barriers to Professional Growth
+END:VEVENT
+END:VCALENDAR
+

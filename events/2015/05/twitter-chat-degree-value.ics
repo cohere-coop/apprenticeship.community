@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20150525T194032Z
+UID:5bcdc8f4-b0e6-4adf-86da-4ef98a3d250f
+DTSTART:20150602T180000
+DTEND:20150602T190000
+DESCRIPTION:https://apprenticeship.community//events/2015/05/twitter-chat-d
+ egree-value.html
+SUMMARY:Apprenticeship Twitter chat - The value of a college degree
+END:VEVENT
+END:VCALENDAR
+
