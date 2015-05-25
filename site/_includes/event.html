@@ -1,0 +1,5 @@
+<article>
+  <h3 id="{{ event.title | handleize }}"><a href="{{event.url}}">{{ event.title }}</a></h3>
+  <h4>{{ event.start-time | pretty_date }} {{ event.start-time | pretty_time }} to {{ event.end-time | pretty_time }}</h4>
+  {{ event.excerpt }}
+</article>
