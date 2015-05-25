@@ -1,4 +1,6 @@
-$max_width: 62em;
 $gutter: modular-scale(4, 1em, $golden);
 
 @import "neat/neat";
+
+$mobile: new-breakpoint(max-width 768px 4);
+$desktop: new-breakpoint(min-width 769px 12);

@@ -1,0 +1,35 @@
+.events {
+  @include row();
+  .content {
+    article {
+      margin-bottom: emRhythm(4, $ms-up2);
+      h3 {
+        @include setType(4, $ms-up1);
+      }
+      h4 {
+        @include setType(3, $ms-down1);
+      }
+
+      @include media($desktop) {
+        @include span-columns(6);
+        @include omega(2n);
+      }
+
+      @include media($mobile) {
+        @include span-columns(4);
+      }
+    }
+  }
+
+  footer {
+    @include span-columns(12);
+  }
+}
+
+#upcoming-events {
+  @extend .events;
+}
+
+#past-events {
+  @extend .events;
+}

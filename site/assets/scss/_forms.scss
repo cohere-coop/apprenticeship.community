@@ -19,6 +19,9 @@ input, button, .button {
   font-family: $font-sans;
   padding: 0.75em 1em;
   vertical-align: middle;
+  @include media($mobile) {
+    @include fill-parent();
+  }
 }
 
 input[type="submit"], button, .button {

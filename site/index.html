@@ -1,61 +1,42 @@
 ---
 layout: default
-title: The Apprenticeship Community
 js: [home]
 ---
-<section id="announcements">
-  <p>Our next <a href="/events/2015/05/AMA-with-Alex-Harms.html"> AMA will feature Alex Harms.</a> The chat will be 6 p.m. PST/9 p.m. EST, Tuesday, May 26.
-  </p>
-</section>
 <section id="about">
-  <article>
-    <main>
-      <p>We're a global online community and publication focused on building cultures of learning and growth at work. We <a id="ep-0" class="exploring"
-                                                        data-position="top-left"
-                                                        data-category="Events"
-                                                        data-engagement-level="exploring"
-                                                        data-goal="View upcoming events and articles"
-                                                        data-order="first"
-                                                        data-type="link"
-                                                        href="https://waffle.io/zincmade/apprenticeship.community-wip">
-                                                        host regular events and
-                                                        publish informative articles.</a>
-      </p>
-      <section class="top apply-to-join">
-        {% include application-form.html %}
-      </section>
-    </main>
-  </article>
-  <article>
-    <section class="patrons">
-      {% include patron-cta.html %}
-    </section>
-  </article>
   <section class="newsletter">
     {% include newsletter-form.html %}
   </section>
 </section>
 
-<section class="faqs">
+<section id="upcoming-events">
   <header>
-  <h2>Frequently Asked Questions</h2>
+    <h3>Upcoming Events</h3>
   </header>
-  <main>
-  {% for faq in site.categories.faqs %}
-    <article>
-      <header>
-        <h4>{{ faq.title }}</h4>
-      </header>
-      <main>
-        {{ faq.content }}
-      </main>
-    </article>
+  <div class="content">
+    {% for event in site.categories.events %}
+      {% if event.start-time > site.time %}
+        {% include event.html %}
+      {% endif %}
+    {% endfor %}
+  </div>
+</section>
+
+<section id="past-events">
+  <header>
+    <h3>Past Events</h3>
+  </header>
+  <div class="content">
+  {% for event in site.categories.events limit: 4 %}
+    {% if event.start-time < site.time %}
+      {% include event.html %}
+    {% endif %}
   {% endfor %}
-  </main>
+  </div>
   <footer>
-    <p>If you still have questions, send us <a
-      href="mailto: hello-ac@apprenticeship.community">an
-      email</a> or <a
-    href="http://twitter.com/pprenticeship">tweet</a>.
+    <a href="/events" class="button">More events</a>
   </footer>
+</section>
+
+<section id="articles">
+
 </section>
