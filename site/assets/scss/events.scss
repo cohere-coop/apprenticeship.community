@@ -8,7 +8,6 @@
       h4 {
         @include setType(3, $ms-down1);
       }
-
       @include span-columns(6);
       @include omega(2n);
     }
