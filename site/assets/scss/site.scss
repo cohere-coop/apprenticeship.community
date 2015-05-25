@@ -1,6 +1,4 @@
 @import "bourbon/bourbon";
-$mobile: new-breakpoint(max-width 768px 4);
-$desktop: new-breakpoint(min-width 769px 12);
 @import "neat";
 @import "typography";
 @import "forms";
@@ -24,6 +22,9 @@ nav {
   a {
     margin-top: emRhythm(3, $ms-up1);
     margin-right: emRhythm(3, $ms-up1);
+    @include media($mobile) {
+      @include fill-parent();
+    }
   }
 }
 
@@ -33,26 +34,23 @@ body {
   padding: 0 emRhythm(4, $ms-down1);
 
   > main > section {
-    @include span-columns(12);
+    @include fill-parent();
   }
 
   > header, > main, > footer {
     @include outer-container;
   }
-}
-
-#logo {
-  padding-bottom: emRhythm(3, $ms-down1);
-  border-bottom: $base-border;
+  > header {
+    margin-bottom: emRhythm(3, $ms-down1);
+  }
 }
 
 #content {
   > section {
-    border-bottom: $base-border;
     margin-bottom: emRhythm(3, $ms-down1);
-
-    &.bottom {
-      border: none;
-    }
   }
+}
+
+footer {
+  @include fill-parent();
 }

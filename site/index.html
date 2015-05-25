@@ -26,12 +26,15 @@ js: [home]
     <h3>Past Events</h3>
   </header>
   <div class="content">
-  {% for event in site.categories.events %}
+  {% for event in site.categories.events limit: 4 %}
     {% if event.start-time < site.time %}
       {% include event.html %}
     {% endif %}
   {% endfor %}
   </div>
+  <footer>
+    <a href="/events" class="button">More events</a>
+  </footer>
 </section>
 
 <section id="articles">
