@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <head>
-  <title>{{ page.title }}</title>
+  {% if page.title %}
+    <title>{{ page.title }}</title>
+  {% else %}
+    <title>Apprenticeship.Community</title>
+  {% endif %}
   <meta charset="utf-8" />
   <meta name="viewport" content="initial-scale=1">
   {% stylesheet site %}
@@ -124,7 +128,7 @@
     </section>
   </main>
   <footer>
-    <p>&copy; 2015 The Apprenticeship Community.</p>
+  <p>&copy; 2015 The Apprenticeship Community. <a href="https://twitter.com/pprenticeship">@pprenticeship</a> - <a href="https://www.facebook.com/apprenticeship.community/">Facebook</a></p>
   </footer>
 </body>
 </html>
