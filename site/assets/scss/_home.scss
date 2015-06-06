@@ -21,12 +21,11 @@
     @include omega(2n);
   }
   .newsletter {
-    @include span-columns(12);
+    @include fill-parent();
     input, button {
-      @include span-columns(4);
-    }
-    button {
-      margin-top: .5em;
+      @include media($desktop) {
+        @include span-columns(4);
+      }
     }
   }
 }

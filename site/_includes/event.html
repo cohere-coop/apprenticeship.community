@@ -1,0 +1,16 @@
+<article>
+  <header>
+  <h3 id="{{ event.title | handleize }}"><a href="{{event.url}}">{{ event.title }}</a></h3>
+  <h4>{{ event.start-time | pretty_date }} {{ event.start-time | pretty_time }} to {{ event.end-time | pretty_time }}
+    <a href="{{ event.id }}.ics"
+      class="engaging"
+      data-category="Events"
+      data-engagement-level="engaging"
+      data-goal="Add event to calendar"
+      data-type="link">Add To Calendar</a>
+  </h4>
+  </header>
+  {{ event.excerpt }}
+  <footer>
+  </footer>
+</article>

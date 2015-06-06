@@ -1,0 +1,26 @@
+---
+title: Frequently Asked Questions
+---
+<section class="faqs">
+  <header>
+  <h2>Frequently Asked Questions</h2>
+  </header>
+  <main>
+  {% for faq in site.categories.faqs %}
+    <article>
+      <header>
+        <h4>{{ faq.title }}</h4>
+      </header>
+      <main>
+        {{ faq.content }}
+      </main>
+    </article>
+  {% endfor %}
+  </main>
+  <footer>
+    <p>If you still have questions, send us <a
+      href="mailto: hello-ac@apprenticeship.community">an
+      email</a> or <a
+    href="http://twitter.com/pprenticeship">tweet</a>.
+  </footer>
+</section>

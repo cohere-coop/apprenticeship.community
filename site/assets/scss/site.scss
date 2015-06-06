@@ -3,63 +3,54 @@
 @import "typography";
 @import "forms";
 @import "home";
+@import "events";
 
-nav {
-  padding-top: emRhythm(3, $ms-up1);
-  a {
-    padding: emRhythm(3, $ms-down1);
-    padding-left: 0;
-    &.button {
-      margin-right: emRhythm(3, $ms-up1);
+body > header {
+  h1 {
+    a {
+      text-decoration: none;
+      color: inherit;
+      &:hover {
+        text-decoration: underline;
+      }
     }
+
   }
 }
 
-q {
-  quotes: "“" "”" "‘" "’";
-  &:before {
-    content: open-quote;
-  }
-  &:after {
-    content: close-quote;
+nav {
+  a {
+    margin-top: emRhythm(3, $ms-up1);
+    margin-right: emRhythm(3, $ms-up1);
+    @include media($mobile) {
+      @include fill-parent();
+    }
   }
 }
 
 
 body {
   margin-top: emRhythm(4, $ms-down1);
+  padding: 0 emRhythm(4, $ms-down1);
 
   > main > section {
-    margin-bottom: emRhythm(3, $ms-down1);
-    @include span-columns(12);
+    @include fill-parent();
   }
 
   > header, > main, > footer {
     @include outer-container;
+  }
+  > header {
     margin-bottom: emRhythm(3, $ms-down1);
   }
-
-  > footer {
-    p  {
-      @include span-columns(4);
-      @include shift(4);
-    }
-
-  }
-}
-
-#logo {
-  padding-bottom: emRhythm(3, $ms-down1);
-  border-bottom: $base-border;
 }
 
 #content {
   > section {
-    border-bottom: $base-border;
     margin-bottom: emRhythm(3, $ms-down1);
-
-    &.bottom {
-      border: none;
-    }
   }
+}
+
+footer {
+  @include fill-parent();
 }
