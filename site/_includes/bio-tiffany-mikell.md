@@ -1,0 +1,5 @@
+Tiffany Mikell, CEO and co-founder of [BlackStarLaunch](http://blackstarmedia.org), has more than 10 years of professional experiences in technology, entrepreneurship and education design. Her ventures are focused on building tools and platforms that increase the accessibility of learning opportunities for the underrepresented.
+
+In 2013, she helped [Dev Bootcamp](http://devbootcamp.com/locations/chicago/) launch its Chicago location and played a key role on the founding team. In 2010, she founded a successful technology consulting firm developing SaaS (software as a service) platforms for non-profits and social enterprises. She began her career as a Java developer and Technical Architect with a specialization in ERP (enterprise resource planning), business intelligence and SaaS-based solutions for [Accenture](http://www.accenture.com/us-en/pages/index.aspx).
+
+Mikell’s work embodies and is driven by the idea that access to education, resources and support is the key to empowerment.
