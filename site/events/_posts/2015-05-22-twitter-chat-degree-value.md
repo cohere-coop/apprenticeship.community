@@ -4,12 +4,6 @@ start-time: 2015-06-02T17:00:00-08:00
 end-time: 2015-06-02T18:00:00-08:00
 layout: event
 ---
-Our next #apprenticeship Twitter chat will discuss the value of a college degree.
+Members discussed the value of a college degree, especially for programming jobs. Here's the [Storify](https://storify.com/Apprenticeship/the-value-of-a-college-degree) of the chat.
 
-* Does having a college degree make it easier to get a job in your industry?
-* How do you evaluate job candidates who don't have degrees?
-* If you have a college degree, was it "worth it"?
-
-And more!
-
-The chat will be 6 p.m. PST/9 p.m. EST, Tuesday, June 2. Follow [@pprenticeship](https://twitter.com/pprenticeship) on Twitter and use the hashtag [#apprenticeship](https://twitter.com/search?f=realtime&q=%40pprenticeship%20OR%20%23apprenticeship&src=typd) to participate.
+<div class="storify"><iframe src="//storify.com/Apprenticeship/the-value-of-a-college-degree/embed?header=false&border=false" width="100%" height="750" frameborder="no" allowtransparency="true"></iframe><script src="//storify.com/Apprenticeship/the-value-of-a-college-degree.js?header=false&border=false"></script><noscript>[<a href="//storify.com/Apprenticeship/the-value-of-a-college-degree" target="_blank">View the story "The value of a college degree" on Storify</a>]</noscript></div>
