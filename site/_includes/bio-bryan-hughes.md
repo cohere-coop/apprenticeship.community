@@ -1,0 +1,1 @@
+[Bryan Hughes](https://twitter.com/nebrius) is a web framework developer at Rdio who loves JavaScript. He's also an amateur photographer, avid gamer, film enthusiast, wine lover and husband.

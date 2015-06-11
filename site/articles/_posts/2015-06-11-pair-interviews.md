@@ -42,5 +42,5 @@ There are still open questions with how well this approach will scale. How effec
 
 To sum things up, hiring is hard and done poorly at most tech companies. In order to make good hiring decisions, the way we hire must tell us how effective a candidate will be. Having candidates pair program with an interviewer on an actual programming challenge is a much more effective approach.
 
-*[Bryan Hughes](https://twitter.com/nebrius) is a web framework developer at Rdio who loves JavaScript. He's also an amateur photographer, avid gamer, film enthusiast, wine lover and husband.*
+*{% include bio-bryan-hughes.md %}*
 
