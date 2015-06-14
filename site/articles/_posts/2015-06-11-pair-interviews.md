@@ -1,4 +1,3 @@
-2015-06-11-pair-interviews.md
 ---
 title: How Rdio Tested Pair Interviews
 excerpt: "My colleagues and I on the web team recently revamped our hiring process at Rdio with help from the Apprenticeship Community. The changes we have seen so far have been dramatic."
