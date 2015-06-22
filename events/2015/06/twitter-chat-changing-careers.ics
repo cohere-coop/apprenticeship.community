@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20150622T171936Z
+UID:bf01460d-5255-46b8-86c8-b3f08d237c6b
+DTSTART:20150616T180000
+DTEND:20150616T190000
+DESCRIPTION:https://apprenticeship.community//events/2015/06/twitter-chat-c
+ hanging-careers.html
+SUMMARY:Apprenticeship Twitter chat - Changing careers
+END:VEVENT
+END:VCALENDAR
+
