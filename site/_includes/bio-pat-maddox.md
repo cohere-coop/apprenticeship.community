@@ -1,0 +1,3 @@
+[Pat Maddox](https://twitter.com/patmaddox) is the founder of [RubySteps.com](http://www.rubysteps.com). He started coding Ruby in 2005 by creating a poker training simulator. When Rails came out, he built one of the first revenue-generating Rails websites in the world.
+
+Since then, he has traveled all over the world, shipped software for businesses of all sizes, and helped teams ship better software. He loves programming Ruby and teaching. 
