@@ -8,4 +8,4 @@ This week, we're inviting community members with experience with running apprent
 
 If you've ever run an apprenticeship program, or want ask questions about it, this event is for you!
 
-The discussion take place 6 p.m. PST/9 p.m. EST, Tuesday, Aug. 19 in our #_community-events Slack channel.
+The discussion take place 6 p.m. PST/9 p.m. EST, Tuesday, Aug. 19 in our [#_community-events Slack channel](https://apprenticeship.slack.com/messages/_community-events/). [Join the Apprenticehsip Community](https://zee8.typeform.com/to/b9wyG6?invite-code=apprenticeship-roundtable) to participate.
