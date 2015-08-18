@@ -1,7 +1,7 @@
 ---
 title: Apprenticeship Roundtable
-start-time: 2015-08-19T17:00:00-08:00
-end-time: 2015-08-19T18:00:00-08:00
+start-time: 2015-08-18T17:00:00-08:00
+end-time: 2015-08-18T18:00:00-08:00
 layout: event
 ---
 This week, we're inviting community members with experience with running apprenticeship programs to talk about it and answer questions from those who are curious.
