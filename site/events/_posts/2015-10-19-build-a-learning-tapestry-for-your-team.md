@@ -6,16 +6,16 @@ layout: event
 registration-url: https://ti.to/apprenticeship-community/learning-tapestry-workshop
 ---
 
-Learning tapestries re-inforce what skills, abilities, and experiences
-are valuable on your team as well as to provide guidance and structure as
+Learning tapestries reinforce skills, abilities, and experiences
+valuable to your team and provide guidance and structure as
 team members grow.
 
-This two hour, remote workshop is geared towards managers and technical leaders
+This two-hour, remote workshop is geared towards managers and technical leaders
 who are looking for ways to better guide and support their team members as they
 build their skills.
 
 We'll start  by reviewing the principles behind a learning tapestry, move on to
-reviewing a few example learning tapestries, then sketch out share tapestries
+reviewing a few example learning tapestries, then sketch out and share tapestries
 for our organizations.
 
 Patrons and community members receive a significant discount. Check the
