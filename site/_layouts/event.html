@@ -3,11 +3,38 @@
 ---
 <section class="event">
 <h4>{{ page.start-time | pretty_date }} {{ page.start-time | pretty_time }} to {{ page.end-time | pretty_time }}</h4>
-<h5><a href="{{ page.id }}.ics"
+<h5>
+{% if page.registration-url %}
+<a href="{{ page.registration-url}}"
+       class="button engaging"
+       data-category="Events"
+       data-engagement-level="engaging"
+       data-goal="Register for event"
+       data-type="button">Register For The Event</a>
+{% endif %}
+<a href="{{ page.id }}.ics"
        class="button engaging"
        data-category="Events"
        data-engagement-level="engaging"
        data-goal="Add event to calendar"
-       data-type="button">Add To Your Calendar</a></h5>
+       data-type="button">Add To Your Calendar</a>
+</h5>
+
 {{ content }}
+<h5>
+{% if page.registration-url %}
+<a href="{{ page.registration-url}}"
+       class="button engaging"
+       data-category="Events"
+       data-engagement-level="engaging"
+       data-goal="Register for event"
+       data-type="button">Register For The Event</a>
+{% endif %}
+<a href="{{ page.id }}.ics"
+       class="button engaging"
+       data-category="Events"
+       data-engagement-level="engaging"
+       data-goal="Add event to calendar"
+       data-type="button">Add To Your Calendar</a>
+</h5>
 </section>
