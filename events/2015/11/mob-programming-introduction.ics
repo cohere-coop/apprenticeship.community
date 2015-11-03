@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20151103T031826Z
+UID:0c2fa8a1-2863-4d19-a81a-64d527ab66f5
+DTSTART:20151106T130000
+DTEND:20150906T160000
+DESCRIPTION:https://apprenticeship.community//events/2015/11/mob-programmin
+ g-introduction.html
+SUMMARY:Distributed Mob Programming - Introduction
+END:VEVENT
+END:VCALENDAR
+
