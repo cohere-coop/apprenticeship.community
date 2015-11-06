@@ -18,7 +18,7 @@ Together we'll:
 * Decompose the problem into digestible chunks
 * Change drivers every ~10m
 
-<iframe src="http://player.twitch.tv/?channel=zeespencer" frameborder="0"
+<iframe src="//player.twitch.tv/?channel=zeespencer" frameborder="0"
 scrolling="no" height="378" width="620"></iframe><a
 href="http://www.twitch.tv/zeespencer?tt_medium=live_embed&tt_content=text_link"
 style="padding:2px 0px 4px; display:block; width:345px; font-weight:normal;
