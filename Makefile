@@ -11,7 +11,7 @@ bump:
 	make change-version
 	git add VERSION && git commit -m "Starting work on $$(cat VERSION)"
 
-release: ensure-safe-to-release clean build-production change-version commit-site deploy bump
+release: ensure-safe-to-release clean build-production commit-site deploy
 
 ensure-safe-to-release: ensure-on-primary ensure-no-outstanding-changes
 
