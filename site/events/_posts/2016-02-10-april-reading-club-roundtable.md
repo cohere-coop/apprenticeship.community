@@ -1,7 +1,7 @@
 ---
 title: April Reading Club Roundtable
-start-time: 2016-04-20T15:00:00-08:00
-end-time: 2016-04-20T16:00:00-08:00
+start-time: 2016-04-20T17:00:00-08:00
+end-time: 2016-04-20T18:00:00-08:00
 layout: event
 ---
 

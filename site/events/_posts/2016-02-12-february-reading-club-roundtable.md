@@ -1,7 +1,7 @@
 ---
 title: February Reading Club Roundtable
-start-time: 2016-02-17T16:00:00-08:00
-end-time: 2016-02-17T17:00:00-08:00
+start-time: 2016-02-17T18:00:00-08:00
+end-time: 2016-02-17T19:00:00-08:00
 layout: event
 ---
 
