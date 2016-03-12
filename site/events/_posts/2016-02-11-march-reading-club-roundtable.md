@@ -1,7 +1,7 @@
 ---
 title: March Reading Club Roundtable
-start-time: 2016-03-16T17:00:00-08:00
-end-time: 2016-03-16T18:00:00-08:00
+start-time: 2016-03-23T17:00:00-08:00
+end-time: 2016-03-23T18:00:00-08:00
 layout: event
 ---
 

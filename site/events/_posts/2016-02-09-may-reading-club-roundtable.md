@@ -1,7 +1,7 @@
 ---
 title: May Reading Club Roundtable
-start-time: 2016-05-20T17:00:00-08:00
-end-time: 2016-05-20T18:00:00-08:00
+start-time: 2016-05-25T17:00:00-08:00
+end-time: 2016-05-25T18:00:00-08:00
 layout: event
 ---
 
