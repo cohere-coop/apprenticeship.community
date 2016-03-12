@@ -9,3 +9,5 @@ Books are a great way to level up your skills; so let's get together and talk ab
 
 
 This is a members only event, so make sure you've [registered to become a member and verified your login credentials!](https://zee8.typeform.com/to/b9wyG6).
+
+Want a sneak peek at the kind of books we cover? Peruse [February's Reading Club Roundtable Notes](/events/2016/02/february-reading-club-roundtable.html)
