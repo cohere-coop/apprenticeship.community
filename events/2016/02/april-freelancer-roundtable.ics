@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20160312T191339Z
+UID:c37ab8ef-7641-4bac-beb0-de4763038569
+DTSTART:20160413T180000
+DTEND:20160413T190000
+DESCRIPTION:https://apprenticeship.community//events/2016/02/april-freelanc
+ er-roundtable.html
+SUMMARY:April Freelancer Roundtable - Time Management
+END:VEVENT
+END:VCALENDAR
+

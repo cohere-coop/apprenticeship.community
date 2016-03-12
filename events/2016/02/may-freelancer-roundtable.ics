@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20160312T191339Z
+UID:631b9737-fc6e-4dcc-9e99-73faef689e09
+DTSTART:20160511T180000
+DTEND:20160511T190000
+DESCRIPTION:https://apprenticeship.community//events/2016/02/may-freelancer
+ -roundtable.html
+SUMMARY:May Freelancer Roundtable - Bidding a Project
+END:VEVENT
+END:VCALENDAR
+
